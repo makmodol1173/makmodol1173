@@ -1,7 +1,6 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvsgif.com%2Fgif%2F3556745&psig=AOvVaw0vhUgh6JMo0zuZ4B5sSl4F&ust=1735553737533000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLChkfbfzIoDFQAAAAAdAAAAABAQ)]
 <h1 align="center">Hi 👋, I'm Makmudul Hasan Rabbi</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm an undergraduate Software Engineering student at Noakhali Science and Technology University. I'm passionate about creating impactful solutions through programming, machine learning, and web development.</h3>
-
-<img align="right" alt="coding" width="400" src="https://vsgif.com/gif/3556745">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makmodol1173&label=Profile%20views&color=0e75b6&style=flat" alt="makmodol1173" /> </p>
 
@@ -25,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makmodol1173&show_icons=true&locale=en" alt="makmodol1173" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makmodol1173&" alt="makmodol1173" /></p>
+
+## 📫 Let's Connect  
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/makmudul-hasan-rabbi-818a67177/)    
+- **Email**: makmodol1173@gmail.com 
