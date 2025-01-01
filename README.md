@@ -1,4 +1,3 @@
-![MasterHead](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)
 <h1 align="center">Hi 👋, I'm Makmudul Hasan Rabbi</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm an undergraduate Software Engineering student at Noakhali Science and Technology University. I'm passionate about creating impactful solutions through programming, machine learning, and web development.</h3>
 
