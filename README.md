@@ -11,9 +11,7 @@
 <a href="https://fb.com/shah.moaz.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shah.moaz.7" height="30" width="40" /></a>
 <a href="https://instagram.com/@shah_moaz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@shah_moaz_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/moaz100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="moaz100" height="30" width="40" /></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-1024.png" alt="GitHub" width="40" height="40"/>
-  </a>
+<a href="https://github.com/" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-1024.png" alt="GitHub" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/makmodol1173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="makmodol1173" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shah_moaz10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shah_moaz10" height="30" width="40" /></a>  
 </p>
