@@ -76,7 +76,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
   </a> 
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Adobe_Corporate_Logo.svg" alt="Adobe" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Adobe_Corporate_logo.svg" alt="Adobe" width="40" height="40"/>
   </a>
 </p>
 
