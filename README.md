@@ -72,15 +72,12 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Computer_vision_icon.png" alt="Computer Vision" width="40" height="40"/>
-  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
   </a> 
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40"/> 
-  </a> 
+  <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Adobe_Corporate_Logo.svg" alt="Adobe" width="40" height="40"/>
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makmodol1173&show_icons=true&locale=en&layout=compact" alt="makmodol1173" /></p>
