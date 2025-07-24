@@ -48,6 +48,8 @@
   </tr>
 </table>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makmodol1173&show_icons=true&locale=en&layout=compact" alt="makmodol1173" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makmodol1173&show_icons=true&locale=en" alt="makmodol1173" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makmodol1173&" alt="makmodol1173" /></p>
