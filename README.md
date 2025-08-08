@@ -1,5 +1,5 @@
-<h1 align="center">Hlw, I'm Makmudul Hasan Rabbi</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm an undergraduate Software Engineering student at Noakhali Science and Technology University. I'm passionate about creating impactful solutions through programming, machine learning, and web development.</h3>
+<h1 align="center">Hey, I'm Makmudul Hasan Rabbi</h1>
+<p align="center">Welcome to my GitHub profile! I'm an undergraduate Software Engineering student at Noakhali Science and Technology University. I'm passionate about creating impactful solutions through programming, machine learning, and web development.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makmodol1173&label=Profile%20views&color=0e75b6&style=flat" alt="makmodol1173" /> </p>
 
