@@ -8,6 +8,8 @@
   </span>
 </div>
 
+---
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=makmodol1173&label=Profile%20views&color=0e75b6&style=flat" alt="makmodol1173" />
 </p>
