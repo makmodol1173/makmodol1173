@@ -1,56 +1,67 @@
-<h1 align="center">Hey, I'm Makmudul Hasan Rabbi</h1>
-<p align="center">Welcome to my GitHub profile! I'm an undergraduate Software Engineering student at Noakhali Science and Technology University. I'm passionate about creating impactful solutions through programming, machine learning, and web development.</p>
+<h1 align="left"> Hey, I'm Makmudul Hasan Rabbi</h1>
+<div>
+  <span style="float: left;">
+    <em>Undergraduate Software Engineering Student | Passionate about Web Development, Machine Learning and Computer Vision</em>
+  </span>
+  <span style="float: right;">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae0/512.gif" alt="🫠" width="35" height="35">
+  </span>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=makmodol1173&label=Profile%20views&color=0e75b6&style=flat" alt="makmodol1173" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=makmodol1173&label=Profile%20views&color=0e75b6&style=flat" alt="makmodol1173" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<table style="border-collapse: collapse; width: auto;">
-  <tr>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://linkedin.com/in/makmudul-hasan-rabbi-818a67177" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://fb.com/shah.moaz.7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://instagram.com/@shah_moaz_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://codeforces.com/profile/shah_moaz10" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="30" height="30"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://www.codechef.com/users/moaz100" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" width="30" height="30"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://github.com/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-1024.png" alt="GitHub" width="30" height="30"/></a></td>
-  </tr>
-</table>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<table style="border-collapse: collapse; width: auto;">
-  <tr>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a></td>
-     <td style="border:1px solid #ccc; padding:5px;"><a href="https://www.langchain.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a></td>
-  <tr>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://www.php.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://laravel.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://opencv.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a></td>
-    <td style="border:1px solid #ccc; padding:5px;"><a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/></a></td>
-    <td colspan="3"></td>
-  </tr>
-</table>
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/makmudul-hasan-rabbi-818a67177" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://fb.com/shah.moaz.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://instagram.com/@shah_moaz_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://codeforces.com/profile/shah_moaz10" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="https://www.codechef.com/users/moaz100" target="_blank"><img src="https://img.shields.io/badge/CodeChef-339933?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
+  <a href="https://github.com/makmodol1173" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makmodol1173&show_icons=true&locale=en&layout=compact" alt="makmodol1173" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makmodol1173&show_icons=true&locale=en" alt="makmodol1173" /></p>
+## 💻 Languages & Tools
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/></a>
+  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-0F0F0F?style=for-the-badge&logo=python&logoColor=white" alt="LangChain"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makmodol1173&" alt="makmodol1173" /></p>
+---
 
-## 📫 Let's Connect  
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/makmudul-hasan-rabbi-818a67177/)    
-- **Email**: makmodol1173@gmail.com 
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=makmodol1173&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makmodol1173&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makmodol1173&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
