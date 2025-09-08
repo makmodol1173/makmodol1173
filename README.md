@@ -1,7 +1,7 @@
 <h1 align="left"> Hey, I'm Makmudul Hasan Rabbi</h1>
 <div>
   <span style="float: left;">
-    <em>Undergraduate Software Engineering Student | Passionate about Web Development, Machine Learning and Computer Vision</em>
+    <em>Software Engineering Student | Passionate about Web Development(Django), Machine Learning and Computer Vision</em>
   </span>
   <span style="float: right;">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae0/512.gif" alt="🫠" width="35" height="35">
