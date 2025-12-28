@@ -52,6 +52,12 @@
   <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+  <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/></a>
+  <a href="https://www.latex-project.org/" target="_blank"><img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/</a>
+  <a href="https://shap.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/SHAP-Explainability-blue?style=for-the-badge" alt="SHAP"/></a>
+  <a href="https://mistral.ai/" target="_blank"><img src="https://img.shields.io/badge/Mistral%20AI-000000?style=for-the-badge" alt="Mistral AI"/></a>
 </p>
 
 ---
