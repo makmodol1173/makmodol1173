@@ -95,19 +95,14 @@
     </td>
   </tr>
 
-  <!-- Data Science, Computer Vision & Visualization -->
+  <!-- Computer Vision & Visualization -->
   <tr>
-    <th colspan="5" align="center">Data Science, Computer Vision & Visualization</th>
+    <th colspan="5" align="center">Computer Vision & Visualization</th>
   </tr>
   <tr align="center">
     <td>
-      <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://numpy.org/" target="_blank">
-        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+      <a href="https://opencv.org/" target="_blank">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
       </a>
     </td>
     <td>
@@ -121,10 +116,15 @@
       </a>
     </td>
     <td>
-      <a href="https://opencv.org/" target="_blank">
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-      </a>
-    </td>
+    <a href="https://www.scipy.org/" target="_blank">
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+    </a>
+  </td>
+    <td>
+    <a href="https://shap.readthedocs.io/" target="_blank">
+      <img src="https://img.shields.io/badge/SHAP-XAI-blue?style=for-the-badge" alt="SHAP"/>
+    </a>
+  </td>
   </tr>
 
   <!-- ML, DL & AI -->
