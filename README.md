@@ -29,7 +29,7 @@
 ---
 
 ## 💻 Languages & Tools
-<table align="left">
+<table align="center">
 
   <!-- Programming Languages -->
   <tr>
